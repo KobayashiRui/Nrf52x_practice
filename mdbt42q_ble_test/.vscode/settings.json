@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/rui/.platformio/penv/bin:/Users/rui/.platformio/penv:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Apple/bin:/opt/X11/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/rui/.nodebrew/current/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
